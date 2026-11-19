@@ -1,0 +1,6 @@
+{
+  "name": "RentWise - Rental Property & Tenant Management",
+  "description": "A modern, premium MERN stack rental property and tenant management platform with role-based portals for Landlords, Tenants, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
